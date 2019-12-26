@@ -1,6 +1,6 @@
 # php7NewFunction
 
-* git克隆
+* git命令
 
 1. 将文件修改加到缓存区;
 
@@ -45,6 +45,13 @@ git push -u origin master
 ```
 
 注：若远程库不为空，需先同步
+
 ```git
 git pull --rebase origin master
+```
+
+7. 将远端github代码赋值到本地
+
+```git
+git clone sshurl/httpurl
 ```

@@ -30,7 +30,7 @@ git log(git reflog)
 
 建立连接
 ```git
-git remote add origin https://github.com/KeymonWong/JsAndObjc.git
+git remote add origin https://github.com/Morepractice/php7NewFunction.git
 ```
 
 注：若origin已存在则需先使用命令移除

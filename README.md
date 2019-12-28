@@ -35,7 +35,7 @@ git remote add origin https://github.com/Morepractice/php7NewFunction.git
 
 注：若origin已存在则需先使用命令移除
 ```git
-git remove rm origin
+git remote rm origin
 ```
 
 6. 将本地代码上传至github
